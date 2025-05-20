@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">I like to build amazing solutions for the web.</h3>
+<h3 align="center">I'm a passionate software engineer who builds robust and scalable solutions using JavaScript and its frameworks. I enjoy collaborating and learning new technologies.</h3>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m continuously studying **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [mhrizwan.com](mhrizwan.com)
+- 👨‍💻 Check out my projects at [mhrizwan.com](https://mhrizwan.com)
 
-- 💬 Ask me about **Frontend / Backend / API's**
+- 💬 Ask me about **Frontend, Backend, and APIs**
 
-- 📫 How to reach me **mhrizwan914@gmail.com**
+- 📫 Reach me at **mhrizwan914@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/mhrizwan914/frontend-developer](https://rxresu.me/mhrizwan914/frontend-developer)
+- 📄 Learn more about my experience: [My Resume](https://rxresu.me/mhrizwan914/frontend-developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
