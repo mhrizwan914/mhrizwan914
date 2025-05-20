@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">I'm a passionate software engineer who builds robust and scalable solutions using JavaScript and its frameworks. I enjoy collaborating and learning new technologies.</h3>
-![Profile views](https://komarev.com/ghpvc/?username=mhrizwan914&label=PROFILE+VIEWS&color=blue&style=flat-square)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 
 - 🌱 I’m continuously studying **Software Engineering**
 
