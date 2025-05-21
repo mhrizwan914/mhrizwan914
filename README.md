@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate software engineer who builds robust and scalable solutions using JavaScript and its frameworks. I enjoy collaborating and learning new technologies.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhrizwan914&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mhrizwan914&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=5000" alt="Profile views" />
 </p>
 
 <p align="center">
