@@ -23,7 +23,7 @@
 
 - 🌱 I’m continuously studying **Software Engineering**
 
-- 👨‍💻 Check out my projects at [portfolio.mhrizwan.com](https://mhrizwan.com)
+- 👨‍💻 Check out my projects at [mhrizwan.com](https://portfolio.mhrizwan.com)
 
 - 💬 Ask me about **Frontend, Backend, and APIs**
 
